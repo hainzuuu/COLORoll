@@ -1,3 +1,5 @@
+![Game Screenshot](images/coloroll_menu.png)
+
 # COLORoll
 
 📌 Overview

@@ -1,11 +1,9 @@
-![Game Screenshot](images/coloroll_menu.png)
-
 # COLORoll
 
-📌 Overview
+## Overview
 A Python-based betting game using Double-Ended Queue (Deque), inspired by the Color Game from Philippine perya.  
 
-🎮 Features
+## Features
 - Color-Based Betting – Bet on six colors and win based on random results.
 - Multiple Modes – Easy, Medium, Hard, Impossible (each with different starting money, max bet, and quota).
 - Betting System – Dynamic max bet and validation to prevent invalid inputs.
@@ -14,5 +12,7 @@ A Python-based betting game using Double-Ended Queue (Deque), inspired by the Co
 - Quota-Based Progression – Reach the quota to win; running out of money ends the game.
 - Interactive UI – Color-coded visuals, suspenseful animations, and smooth game flow.
 
-🛠 About the Project  
+### About the Project  
 This project was created during my 2nd year for the Data Structures and Algorithms course. It applies key concepts like deques, dynamic memory handling, and algorithmic decision-making in a game-based scenario.
+
+![Game Screenshot](images/coloroll_menu.png)

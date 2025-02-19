@@ -16,3 +16,5 @@ A Python-based betting game using Double-Ended Queue (Deque), inspired by the Co
 This project was created during my 2nd year for the Data Structures and Algorithms course. It applies key concepts like deques, dynamic memory handling, and algorithmic decision-making in a game-based scenario.
 
 ![Game Screenshot](images/coloroll_menu.png)
+![Game Screenshot](images/coloroll_instructions.png)
+![Game Screenshot](images/coloroll_game.png)

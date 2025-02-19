@@ -11,3 +11,6 @@ A Python-based betting game using Double-Ended Queue (Deque), inspired by the Co
 - Game Store – Buy buffs like Upbet (increase max bet), Manybet (bet on multiple colors), and Coloredbet (enhanced visuals).
 - Quota-Based Progression – Reach the quota to win; running out of money ends the game.
 - Interactive UI – Color-coded visuals, suspenseful animations, and smooth game flow.
+
+About the Project
+This project was created during my 2nd year for the Data Structures and Algorithms course. It applies key concepts like deques, dynamic memory handling, and algorithmic decision-making in a game-based scenario.
